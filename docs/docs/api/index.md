@@ -34,7 +34,7 @@ send an email to `zk@tachi.ac` and let me know what you're up to. Otherwise, I m
 
 ## License
 
-[Tachi-Server](https://github.com/zkldi/Tachi/tree/main/server) (Where the API is wrote) is licensed under the [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html).
+[Tachi-Server](https://github.com/zkldi/Tachi/tree/main/server) (Where the API is written) is licensed under the [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
 To quote GitHub:
 
